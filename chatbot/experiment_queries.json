@@ -1,0 +1,60 @@
+{
+    "general": {
+        "en": [
+            "How do you say 'flower' in Spanish?",
+            "Is this sentence correct: 'Yo fue al mercado'?",
+            "What’s a good way to reply to '¿Qué tiempo hace hoy?' in Spanish?",
+            "What does 'mesa' mean in Spanish?",
+            "Translate this into Spanish: She didn't want to see the movie but she went anyway."
+        ],
+        "es": [
+            "¿Cómo se dice 'libro' en inglés?",
+            "¿Es correcta esta frase: 'She don’t like apples'?",
+            "¿Cómo puedo responder a 'How's the weather today?' en inglés?",
+            "¿Qué significa 'fridge' en inglés?",
+            "Traduce esto al inglés: No pudieron venir porque no tenían suficiente dinero."
+        ]
+    },
+    "travel": {
+        "en": [
+            "Where is Cordoba located?",
+            "What are 3 things to do in Seville?",
+            "How can I get from Cuzco to Lima?",
+            "What are typical foods in Oaxaca?",
+            "What is the best time of year to visit Ecuador?"
+        ],
+        "es": [
+            "¿Dónde está Vancouver?",
+            "¿Cuáles son 3 cosas que puedo hacer en Chicago?",
+            "¿Cómo llego de Nueva York a Boston?",
+            "¿Qué comidas típicas hay en Londres?",
+            "¿Cuál es la mejor época del año para visitar Estados Unidos?"
+        ]
+    },
+    "no_retrieval": {
+        "en": [
+            "How do you say 'flower' in Spanish?",
+            "Is this sentence correct: 'Yo fue al mercado'?",
+            "What’s a good way to reply to '¿Qué tiempo hace hoy?' in Spanish?",
+            "What does 'mesa' mean in Spanish?",
+            "Translate this into Spanish: She didn't want to see the movie but she went anyway.",
+            "Where is Cordoba located?",
+            "What are 3 things to do in Seville?",
+            "How can I get from Cuzco to Lima?",
+            "What are typical foods in Oaxaca?",
+            "What is the best time of year to visit Ecuador?"
+        ],
+        "es": [
+            "¿Cómo se dice 'libro' en inglés?",
+            "¿Es correcta esta frase: 'She don’t like apples'?",
+            "¿Cómo puedo responder a 'How's the weather today?' en inglés?",
+            "¿Qué significa 'fridge' en inglés?",
+            "Traduce esto al inglés: No pudieron venir porque no tenían suficiente dinero.",
+            "¿Dónde está Vancouver?",
+            "¿Qué son 3 cosas que puedo hacer en Chicago?",
+            "¿Cómo llego de Nueva York a Boston?",
+            "¿Qué comidas típicas hay en Londres?",
+            "¿Cuál es la mejor época del año para visitar Estados Unidos?"
+        ]
+    }
+}
